@@ -1,0 +1,11 @@
+{
+	"autoload": {
+        "psr-4": {
+            "":""
+        }
+    },
+    "require": {
+        "linecorp/line-bot-sdk": "^2.3",
+		"chriskonnertz/string-calc": "^1.0"
+    }
+}
